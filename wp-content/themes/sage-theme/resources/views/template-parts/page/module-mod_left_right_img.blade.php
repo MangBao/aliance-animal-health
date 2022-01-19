@@ -1,0 +1,1 @@
+<div class="container"><h3>Module: Mod Left Right Image</h3></div>

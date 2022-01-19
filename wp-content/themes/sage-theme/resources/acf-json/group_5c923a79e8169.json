@@ -1,0 +1,152 @@
+{
+    "key": "group_5c923a79e8169",
+    "title": "Modules",
+    "fields": [
+        {
+            "key": "field_5c923a83d29a1",
+            "label": "Modules",
+            "name": "c8_templates",
+            "type": "flexible_content",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "layouts": {
+                "layout_5f473a993ba99": {
+                    "key": "layout_5f473a993ba99",
+                    "name": "example",
+                    "label": "Example",
+                    "display": "block",
+                    "sub_fields": [],
+                    "min": "",
+                    "max": ""
+                },
+                "layout_5f73ffbf1dffe": {
+                    "key": "layout_5f73ffbf1dffe",
+                    "name": "example2",
+                    "label": "Example21",
+                    "display": "block",
+                    "sub_fields": [],
+                    "min": "",
+                    "max": ""
+                },
+                "layout_61e40745c4da8": {
+                    "key": "layout_61e40745c4da8",
+                    "name": "mod_banner",
+                    "label": "Mod Banner",
+                    "display": "block",
+                    "sub_fields": [],
+                    "min": "",
+                    "max": ""
+                },
+                "layout_61e407a3ca972": {
+                    "key": "layout_61e407a3ca972",
+                    "name": "mod_content",
+                    "label": "Mod Content",
+                    "display": "block",
+                    "sub_fields": [],
+                    "min": "",
+                    "max": ""
+                },
+                "layout_61e407e0a20e5": {
+                    "key": "layout_61e407e0a20e5",
+                    "name": "mod_image_content",
+                    "label": "Mod Image Content",
+                    "display": "block",
+                    "sub_fields": [],
+                    "min": "",
+                    "max": ""
+                },
+                "layout_61e4081c30ef4": {
+                    "key": "layout_61e4081c30ef4",
+                    "name": "mod_three_boxes",
+                    "label": "Mod Three Boxes",
+                    "display": "block",
+                    "sub_fields": [],
+                    "min": "",
+                    "max": ""
+                },
+                "layout_61e408472b5d8": {
+                    "key": "layout_61e408472b5d8",
+                    "name": "mod_testimonials",
+                    "label": "Mod Testimonials",
+                    "display": "block",
+                    "sub_fields": [],
+                    "min": "",
+                    "max": ""
+                },
+                "layout_61e40871d8141": {
+                    "key": "layout_61e40871d8141",
+                    "name": "mod_our_services",
+                    "label": "Mod Our Services",
+                    "display": "block",
+                    "sub_fields": [],
+                    "min": "",
+                    "max": ""
+                },
+                "layout_61e4089f93b38": {
+                    "key": "layout_61e4089f93b38",
+                    "name": "mod_left_right_img",
+                    "label": "Mod Left Right Image",
+                    "display": "block",
+                    "sub_fields": [],
+                    "min": "",
+                    "max": ""
+                },
+                "layout_61e408cdc7569": {
+                    "key": "layout_61e408cdc7569",
+                    "name": "mod_latest_news",
+                    "label": "Mod Latest News",
+                    "display": "block",
+                    "sub_fields": [],
+                    "min": "",
+                    "max": ""
+                },
+                "layout_61e408fbc6946": {
+                    "key": "layout_61e408fbc6946",
+                    "name": "mod_from_facebook",
+                    "label": "Mod From Facebook",
+                    "display": "block",
+                    "sub_fields": [],
+                    "min": "",
+                    "max": ""
+                },
+                "layout_61e77ce39a633": {
+                    "key": "layout_61e77ce39a633",
+                    "name": "mod_universal",
+                    "label": "Mod Universal",
+                    "display": "block",
+                    "sub_fields": [],
+                    "min": "",
+                    "max": ""
+                }
+            },
+            "button_label": "Add Module",
+            "min": "",
+            "max": ""
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "post_type",
+                "operator": "==",
+                "value": "page"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": true,
+    "description": "",
+    "modified": 1642560742,
+    "local_file": "D:9thWonderProjectaliancetrainingapppublic\/wp-content\/themes\/sage-theme\/resources\/acf-json\/group_5c923a79e8169.json"
+}

@@ -1,0 +1,39 @@
+@layer base {
+  .btn {
+    @apply px-11 font-bold inline-block select-none align-middle transition-all duration-300 ease-in-out rounded-sm uppercase py-7;
+  }
+
+  .btn-outline-brown {
+    @apply text-primary bg-gray-100 border-primary hover:text-primary hover:border-primary;
+  }
+  .btn-brown {
+    @apply text-white bg-primary border-primary hover:bg-primary hover:border-primary;
+  }
+  .btn-primary {
+    @apply text-white bg-general rounded-3.1xl hover:bg-primary hover:border-primary min-h-50 text-center
+  }
+  .btn-second {
+    @apply text-general bg-whiteG rounded-3.1xl border-general border-solid border-1 hover:bg-general hover:text-whiteG min-h-50 text-center
+  }
+  .btn-cta {
+    @apply text-general relative;
+    &::after {
+      content: "\e91c";
+      @apply font-icomoon absolute right-30 top-1/2 leading-none;
+      transition: transform .25s;
+      transform: translate(0, -50%);
+      font-size: 0.8125rem;
+    }
+    &:hover {
+      &::after {
+        transform: translate(15px, -50%);
+      }
+    }
+  }
+  .btn-cta::after:hover {
+    transform: translate(15px, -50%);
+  }
+  .btn-social {
+    @apply py-6 rounded-4xl;
+  }
+}

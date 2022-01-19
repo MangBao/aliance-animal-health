@@ -1,0 +1,13 @@
+.mod-banner-img {
+
+}
+.mod-banner-content{
+    background-color:#e8e8e8;
+    h1 {
+        @apply hidden md:block text-center lg:mt-24 lg:pr-11 xl:pr-64 xl:pl-14 xl:mt-75
+    }
+    h4 {
+        @apply mt-8 text-center lg:px-24 xl:pl-14 xl:pr-64
+    }
+}
+
