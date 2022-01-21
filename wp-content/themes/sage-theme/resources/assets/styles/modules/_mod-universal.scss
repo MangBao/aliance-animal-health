@@ -1,3 +1,13 @@
 .mod-universal {
-    
+
+}
+
+.banner-image {
+  &::after {
+    content: "";
+    mix-blend-mode: multiply;
+    background-blend-mode: multiply;
+    background-image: linear-gradient(to bottom, #666, #666);
+    @apply inset-0 h-full w-full absolute;
+  }
 }
