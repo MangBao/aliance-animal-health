@@ -1,6 +1,7 @@
 @layer base {
   body {
-    @apply text-base text-black xl:text-lg font-popin;
+    @apply text-base text-gray-400 overflow-hidden font-popin;
+    @apply md:text-lg;
   }
   html {
     @apply m-0;
@@ -9,35 +10,44 @@
   body{
     @apply overflow-x-hidden bg-white;
   }
+
   h1,
   .h1 {
-    @apply text-h1 font-bold md:text-h1-md md:text-primary;
+    @apply text-h1 font-bold text-primary;
+    @apply md:text-h1-md;
   }
 
   h2,
   .h2 {
-    @apply text-h2 font-bold;
+    @apply text-h2 font-bold text-primary;
+    @apply md:text-h2-md;
   }
 
   h3,
   .h3 {
-    @apply text-h3 font-bold;
+    @apply text-h3 font-bold text-primary;
+    @apply md:text-h3-md;
   }
 
   h4,
   .h4 {
-    @apply text-h4 font-popin;
+    @apply md:text-h4-md text-primary;
   }
 
   h5,
   .h5 {
-    @apply text-h5 font-bold;
+    @apply text-h5-md font-bold text-primary;
   }
 
   h6,
   .h6 {
-    @apply text-h5 font-medium;
+    @apply text-h6-md font-bold text-primary;
   }
+
+  .h7 {
+    @apply text-h7-md font-bold text-primary;
+  }
+
   small {
     @apply text-sm;
   }
@@ -77,10 +87,7 @@
     @apply list-disc;
   }
   p {
-    @apply text-p mb-15;
-  }
-  a {
-    @apply text-a font-bold;
+    @apply mb-15;
   }
 }
 

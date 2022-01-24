@@ -11,3 +11,15 @@
     @apply inset-0 h-full w-full absolute;
   }
 }
+
+@screen lg {
+  .mod-banner-home {
+    .left-section {
+      width: calc(50% + 14px);
+    }
+    .right-section {
+      width: calc(50% - 14px);
+    }
+  }
+}
+
