@@ -29,6 +29,7 @@ const fontSize = {
   'h6-md': [rem(18), { lineHeight: '1.33' }],
   'h7-md': [rem(16), { lineHeight: '1.25' }],
   'btn': ['1rem', { lineHeight: '1.25' }],
+  'paragraph-lg': [rem(26), { lineHeight: '1.46' }],
 }
 module.exports = {
   fontSize
