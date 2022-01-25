@@ -9,7 +9,8 @@ const borderRadius = {
   '3xl': '1.5rem',
   '3.1xl': '1.63rem',
   '4xl': '1.875rem',
-  full: '9999px'
+  full: '9999px',
+  '72': '72px'
 }
 module.exports = {
   borderRadius
