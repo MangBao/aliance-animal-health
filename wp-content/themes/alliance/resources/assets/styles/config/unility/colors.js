@@ -3,6 +3,8 @@ const Colors = {
   general: '#209198',
   whiteG: '#ffffff',
   txtGray: '#666666',
+  blueSky: '#a0e1e5',
+  blueIce: '#e0f6f8',
   txtLogos: '#2b2b2b',
   txtColor: 'white',
   green: {
@@ -18,12 +20,12 @@ const Colors = {
   gray: {
     100: '#fcf7ef',
     200: '#F7F1E7',
-    300: '#efefef',
+    300: '#efefef'
   },
   blue: {
     100: '#1d4f91',
     200: '#1e5091',
-    300: '#e0f6f8',
+    300: '#e0f6f8'
   },
   black: '#000',
   transparent: 'transparent'

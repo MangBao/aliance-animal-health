@@ -48,6 +48,18 @@
     @apply text-h7-md font-bold text-primary;
   }
 
+  .p1 {
+    @apply text-p1 font-normal text-txtGray
+  }
+
+  .p2 {
+    @apply text-p2 font-normal text-txtGray
+  }
+
+  .p3 {
+    @apply text-p3 font-normal text-txtGray
+  }
+
   small {
     @apply text-sm;
   }

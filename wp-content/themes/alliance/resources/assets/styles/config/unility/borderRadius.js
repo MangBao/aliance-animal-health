@@ -1,3 +1,5 @@
+const { rem } = require('../utils')
+
 const borderRadius = {
   none: '0px',
   sm: '0.125rem',
@@ -10,7 +12,8 @@ const borderRadius = {
   '3.1xl': '1.63rem',
   '4xl': '1.875rem',
   full: '9999px',
-  '72': '72px'
+  '72': '72px',
+  '46': rem(46)
 }
 module.exports = {
   borderRadius
