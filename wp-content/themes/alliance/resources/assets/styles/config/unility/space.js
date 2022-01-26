@@ -1,4 +1,4 @@
-const max = 101
+const max = 320
 let p = 0
 const Space = {
   '0': 0,
@@ -115,7 +115,7 @@ const Space = {
   '349': '498px',
   '431': '862px',
   '440': '680px',
-  '100vw': '100vw',
+  '100vw': '100vw'
 }
 
 for (let i = 0; i < max; i++) {

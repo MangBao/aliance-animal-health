@@ -167,3 +167,212 @@
         </div>
     </div>
 </section>
+
+<div class="h-100"></div>
+
+<section class="mod-interior">
+    <div class="container">
+        <div class="wrap-desc">
+            <h2>
+                Interior Modules
+            </h2>
+            <div class="desc">
+                <p class="h7">
+                    RICH TEXT
+                </p>
+                <p>
+                    H1, H2, H3, H4, H5, H6, H7, H8, P1, P2, P3, buttons, embedded photos, icons, graphics and video can all be contained within a rich text module. They can be as long or as short as required. Background colors may also be adjusted per color palette.
+                </p>
+            </div>
+        </div>
+
+        <div class="h-40"></div>
+        <div class="interior-1">
+            <div class="wrap-interior-1 text-center">
+                <h3>
+                    Lorem ipsum dolor sit amet
+                </h3>
+                <p>
+                    Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
+                </p>
+            </div>
+        </div>
+
+        <div class="h-40"></div>
+        <div class="interior-2">
+            <div class="wrap-interior-2">
+                <h3>
+                    Lorem ipsum dolor sit amet
+                </h3>
+                <p>
+                    Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+                </p>
+            </div>
+        </div>
+
+        <div class="h-40"></div>
+        <div class="interior-3 row justify-evenly">
+            <div class="col w-42p">
+                <h3>
+                    Lorem ipsum dolor sit amet
+                </h3>
+                <p>
+                    Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+                </p>
+            </div>
+
+            <div class="col w-42p">
+                <h3>
+                    Lorem ipsum dolor sit amet
+                </h3>
+                <p>
+                    Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+                </p>
+            </div>
+        </div>
+
+        <div class="h-40"></div>
+        <div class="interior-4 row justify-evenly">
+            <div class="col w-50p">
+                <div class="h-178 max-w-548 bg-gray-500 mx-auto"></div>
+            </div>
+
+            <div class="col w-50p text-content my-auto">
+                <h3>
+                    Lorem ipsum dolor sit amet
+                </h3>
+                <p>
+                    Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est
+                </p>
+            </div>
+        </div>
+
+        <div class="h-40"></div>
+        <div class="interior-5 row justify-evenly">
+            <div class="col w-30p">
+                <h3>
+                    Lorem ipsum dolor sit amet, consetetur
+                </h3>
+                <p>
+                    Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
+                </p>
+            </div>
+
+            <div class="col w-30p">
+                <h3>
+                    Lorem ipsum dolor sit amet, consetetur
+                </h3>
+                <p>
+                    Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
+                </p>
+            </div>
+
+            <div class="col w-30p">
+                <h3>
+                    Lorem ipsum dolor sit amet, consetetur
+                </h3>
+                <p>
+                    Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
+                </p>
+            </div>
+        </div>
+
+        <div class="h-40"></div>
+        <div class="interior-5 row justify-evenly">
+            <div class="col w-30p">
+                <h3>
+                    Lorem ipsum dolor sit amet, consetetur
+                </h3>
+                <p>
+                    Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
+                </p>
+            </div>
+
+            <div class="col w-30p">
+                <div class="h-132 max-w-322 bg-gray-500 mx-auto"></div>
+            </div>
+
+            <div class="col w-30p">
+                <h3>
+                    Lorem ipsum dolor sit amet, consetetur
+                </h3>
+                <p>
+                    Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
+                </p>
+            </div>
+        </div>
+
+        <div class="h-40"></div>
+        <div class="interior-6 row justify-evenly">
+            <div class="col w-20p">
+                <h3>
+                    Lorem ipsum dolor sit amet, consetetur
+                </h3>
+                <p>
+                    Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
+                </p>
+            </div>
+
+            <div class="col w-20p">
+                <h3>
+                    Lorem ipsum dolor sit amet, consetetur
+                </h3>
+                <p>
+                    Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
+                </p>
+            </div>
+
+            <div class="col w-20p">
+                <h3>
+                    Lorem ipsum dolor sit amet, consetetur
+                </h3>
+                <p>
+                    Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
+                </p>
+            </div>
+
+            <div class="col w-20p">
+                <h3>
+                    Lorem ipsum dolor sit amet, consetetur
+                </h3>
+                <p>
+                    Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
+                </p>
+            </div>
+        </div>
+
+        <div class="h-40"></div>
+        <div class="interior-7 row justify-evenly">
+            <div class="col w-20p">
+                <div class="h-132 max-w-226 bg-gray-500 mx-auto"></div>
+            </div>
+
+            <div class="col w-20p">
+                <h3>
+                    Lorem ipsum dolor sit amet, consetetur
+                </h3>
+                <p>
+                    Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
+                </p>
+            </div>
+
+            <div class="col w-20p">
+                <h3>
+                    Lorem ipsum dolor sit amet, consetetur
+                </h3>
+                <p>
+                    Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
+                </p>
+            </div>
+
+            <div class="col w-20p">
+                <h3>
+                    Lorem ipsum dolor sit amet, consetetur
+                </h3>
+                <p>
+                    Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
+                </p>
+            </div>
+        </div>
+    </div>
+</section>

@@ -22,3 +22,21 @@
   }
 }
 
+.wrap-interior-1 {
+  p {
+    @apply px-160
+  }
+}
+
+.wrap-interior-2 {
+  @apply px-145;
+  p {
+    @apply leading-1.33
+  }
+}
+
+.interior-4 {
+  .text-content {
+    @apply pr-70
+  }
+}
