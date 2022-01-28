@@ -22,21 +22,60 @@
   }
 }
 
+// text
 .wrap-interior-1 {
   p {
-    @apply px-160
+    @apply px-160;
   }
 }
 
 .wrap-interior-2 {
   @apply px-145;
   p {
-    @apply leading-1.33
+    @apply leading-1.33;
   }
 }
 
 .interior-4 {
   .text-content {
-    @apply pr-70
+    @apply pr-70;
   }
 }
+
+.wrap-text {
+  @apply flex;
+  p {
+    align-self: self-end;
+  }
+}
+
+// icon
+.list-service-icon,.list-general-icon {
+  svg {
+    @apply w-60 mx-auto;
+  }
+  p {
+    @apply font-popin text-primary text-center px-16;
+  }
+}
+
+.list-general-icon {
+  svg {
+    @apply w-28 mx-auto;
+  }
+  p {
+    @apply font-popin text-primary text-center px-16;
+  }
+}
+
+.icon-font:hover {
+  &::before {
+    @apply text-primary;
+  }
+}
+
+.list-ux-ui-icon span {
+  @apply cursor-pointer;
+}
+
+// graphics

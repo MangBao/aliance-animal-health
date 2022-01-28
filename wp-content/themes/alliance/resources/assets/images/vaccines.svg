@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="141" height="141" viewBox="0 0 141 141">
+  <defs>
+    <filter id="Path_897" x="0" y="0" width="141" height="141" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="icon" transform="translate(10.5 2.5)">
+    <g transform="matrix(1, 0, 0, 1, -10.5, -2.5)" filter="url(#Path_897)">
+      <path id="Path_897-2" data-name="Path 897" d="M60,0A60,60,0,1,1,0,60,60,60,0,0,1,60,0Z" transform="translate(10.5 2.5)" fill="#fff" stroke="#a0e1e5" stroke-linecap="round" stroke-width="3"/>
+    </g>
+    <g id="Group_41" data-name="Group 41" transform="translate(24.563 24.349)">
+      <path id="Path_81" data-name="Path 81" d="M341.635,897.75c2.434,2.434,5.887,2.927,7.712,1.1h0c1.825-1.825,1.332-5.278-1.1-7.713l-12.487-12.487c-2.434-2.434-5.887-2.927-7.712-1.1h0c-1.825,1.825-1.332,5.278,1.1,7.712l1.57,1.57" transform="translate(-288.051 -867.874)" fill="none" stroke="#a0e1e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <g id="Group_39" data-name="Group 39">
+        <line id="Line_13" data-name="Line 13" y1="9.32" x2="8.891" transform="translate(51.799 5.776)" fill="none" stroke="#a0e1e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <line id="Line_15" data-name="Line 15" x1="18.018" y2="18.018" transform="translate(0 53.285)" fill="none" stroke="#32abb2" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <path id="Path_82" data-name="Path 82" d="M271.43,907.543l-.046-.045a6.775,6.775,0,0,0-9.491.212l-24.416,24.416.906,3.562-4.816,6.244,3.015,2.989,5.983-4.6,3.677.669,12.519-12.519" transform="translate(-217.021 -890.094)" fill="none" stroke="#a0e1e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <line id="Line_14" data-name="Line 14" y1="8.733" x2="8.733" transform="translate(46.107 25.277)" fill="none" stroke="#a0e1e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <path id="Path_83" data-name="Path 83" d="M404.459,848.6a4.675,4.675,0,0,1,0-6.611h0a4.675,4.675,0,0,1,6.611,0l4.407,4.407a4.674,4.674,0,0,1,0,6.611h0a4.675,4.675,0,0,1-6.611,0l-3.482,3.482" transform="translate(-345.972 -840.621)" fill="none" stroke="#a0e1e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <g id="Group_40" data-name="Group 40" transform="translate(23.691 22.39)">
+        <line id="Line_16" data-name="Line 16" x2="2.873" y2="2.873" transform="translate(17.754)" fill="none" stroke="#32abb2" stroke-linejoin="round" stroke-width="3"/>
+        <line id="Line_17" data-name="Line 17" x2="2.873" y2="2.873" transform="translate(11.836 5.918)" fill="none" stroke="#32abb2" stroke-linejoin="round" stroke-width="3"/>
+        <line id="Line_18" data-name="Line 18" x2="2.873" y2="2.873" transform="translate(5.918 11.836)" fill="none" stroke="#32abb2" stroke-linejoin="round" stroke-width="3"/>
+        <line id="Line_19" data-name="Line 19" x2="2.873" y2="2.873" transform="translate(0 17.754)" fill="none" stroke="#32abb2" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+    </g>
+  </g>
+</svg>
