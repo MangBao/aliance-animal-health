@@ -19,6 +19,13 @@ html.is-open-menu {
     }
   }
 }
+
+.main-menu-ul>li.has-sub:hover>ul {
+  pointer-events: auto;
+  opacity: 1;
+  transform: translate(0);
+}
+
 @screen down_lg {
   .main-menu {
     @apply invisible overflow-auto duration-200 w-full max-h-0;

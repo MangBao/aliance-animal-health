@@ -59,6 +59,21 @@
   }
 }
 
+.main-menu-ul {
+  >li {
+    position: relative;
+    &.has-sub {
+      &:hover {
+        > ul {
+          @apply opacity-100 pointer-events-auto;
+          transform: translate(0, 0px);
+          left: 0;
+          width: 180%;
+        }
+      }
+    }
+  }
+}
 
 @media (max-width: 767px) and (orientation: landscape) {
   .header {

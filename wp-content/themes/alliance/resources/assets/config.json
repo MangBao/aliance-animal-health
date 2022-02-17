@@ -14,7 +14,7 @@
     ]
   },
   "publicPath": "/wp-content/themes/alliance",
-  "devUrl": "http://localhost:10082/",
+  "devUrl": "http://aliancetrain.vm",
   "proxyUrl": "http://localhost:3000",
   "cacheBusting": "[name]",
   "watch": [

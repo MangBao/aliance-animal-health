@@ -42,7 +42,7 @@ class C8ThemeHeaderMenu extends \Walker_Nav_Menu
          * @param int      $depth   Depth of menu item. Used for padding.
          */
         $class_names = implode(' ', apply_filters('nav_menu_css_class', array_filter($classes), $item, $args, $depth));
-        $class_names = $class_names ? ' class="' . esc_attr($class_names) . ' class ' . '"' : '';
+        $class_names = $class_names ? ' class="' . esc_attr($class_names) . ' mb-0 ml-50 ' . '"' : '';
 
         /**
          * Filters the ID applied to a menu item's list item element.
@@ -116,7 +116,7 @@ class C8ThemeHeaderMenu extends \Walker_Nav_Menu
         $title = apply_filters('nav_menu_item_title', $title, $item, $args, $depth);
 
         $item_output  = $args->before;
-        $item_output .= '<a class="  "' . $attributes . '>';
+        $item_output .= '<a class=" block py-9 lg:px-4 no-underline text-primary "' . $attributes . '>';
         $item_output .= $args->link_before . $title . $args->link_after;
         $item_output .= '</a>';
         $item_output .= $args->after;
@@ -136,5 +136,47 @@ class C8ThemeHeaderMenu extends \Walker_Nav_Menu
          * @param stdClass $args        An object of wp_nav_menu() arguments.
          */
         $output .= apply_filters('walker_nav_menu_start_el', $item_output, $item, $depth, $args);
+    }
+
+    public function start_lvl( &$output, $depth = 0, $args = null ) {
+        if ( isset( $args->item_spacing ) && 'discard' === $args->item_spacing ) {
+            $t = '';
+            $n = '';
+        } else {
+            $t = "\t";
+            $n = "\n";
+        }
+        $indent = str_repeat( $t, $depth );
+
+        // Default class.
+        $classes = array( 'dropdown-menu' );
+        $themeDropdownMenu = 'down_lg:mt-6 text-blue-500 lg:text-gray-400 lg:left-35 xl:left-28 font-normal';
+
+        /**
+         * Filters the CSS class(es) applied to a menu list element.
+         *
+         * @since 4.8.0
+         *
+         * @param string[] $classes Array of the CSS classes that are applied to the menu `<ul>` element.
+         * @param stdClass $args    An object of `wp_nav_menu()` arguments.
+         * @param int      $depth   Depth of menu item. Used for padding.
+         */
+        $class_names = implode( ' ', apply_filters( 'nav_menu_submenu_css_class', $classes, $args, $depth ) );
+        $class_names = $class_names ? ' class="' . esc_attr( $class_names ) . '"' : '';
+
+        $output .= "{$n}{$indent}<ul$class_names>{$n}";
+    }
+
+    public function end_lvl(&$output, $depth = 0, $args = null)
+    {
+        if (isset($args->item_spacing) && 'discard' === $args->item_spacing) {
+            $t = '';
+            $n = '';
+        } else {
+            $t = "\t";
+            $n = "\n";
+        }
+        $indent = str_repeat($t, $depth);
+        $output .= "$indent</ul>{$n}";
     }
 }

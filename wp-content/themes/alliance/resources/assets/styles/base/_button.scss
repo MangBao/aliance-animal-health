@@ -19,7 +19,7 @@
     @apply text-general relative;
     &::after {
       content: "\e91c";
-      @apply font-icomoon absolute right-30 top-1/2 leading-none;
+      @apply font-icomoon absolute right-70 top-1/2 leading-none;
       transition: transform .25s;
       transform: translate(0, -50%);
       font-size: 0.8125rem;

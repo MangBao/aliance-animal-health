@@ -97,4 +97,19 @@ class App extends Controller
     {
         return Queries::getOptionField('ns_404_page_content');
     }
+    public static function getHeaderNav()
+    {
+        $location = 'primary_navigation';
+        if(has_nav_menu($location)){
+            return wp_nav_menu(array(
+                'theme_location' => $location,
+                'container' => false,
+                'depth' => 1,
+                'walker' => new \App\Services\Nav\C8ThemeHeaderMenu(),
+                'menu_class' => 'main-menu-ul navbar-nav list-none flex mb-0 p-0 text-white flex-col text-inherit lg:flex-row lg:justify-end',
+                'items_wrap' => '<ul id="%1$s" class="%2$s">%3$s</ul>',
+                'echo' => false,
+            ));
+        }
+    }
 }

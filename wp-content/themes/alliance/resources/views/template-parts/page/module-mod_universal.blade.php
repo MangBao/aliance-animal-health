@@ -1,3 +1,4 @@
+<div class="h-50"></div>
 <section class="mod-universal">
     <div class="container">
         <div class="buttons">
@@ -8,7 +9,7 @@
                         Primary Button
                     </h3>
                     <p class="text-left">
-                        <a href="" class="btn btn-primary w-138 md:w-110 xl:mr-64 xl:ml-14">Book Now</a>
+                        <a href="" class="btn btn-primary w-full xl:mr-64 xl:ml-14">Book Now</a>
                     </p>
                 </div>
                 <div class="col w-3/12">
@@ -16,7 +17,7 @@
                         Secondary Button
                     </h3>
                     <p class="text-left">
-                        <a href="" class="btn btn-second w-138 md:w-110 xl:mr-64 xl:ml-14">Book Now</a>
+                        <a href="" class="btn btn-second w-full xl:mr-64 xl:ml-14">Book Now</a>
                     </p>
                 </div>
                 <div class="col w-3/12">
@@ -24,7 +25,7 @@
                         Tertiary/Text CTA
                     </h3>
                     <p class="text-left">
-                        <a href="" class="btn btn-cta w-138 md:w-110 xl:mr-64 xl:ml-14">OUR SERVICES</a>
+                        <a href="" class="btn btn-cta w-full xl:mr-64 xl:ml-14">OUR SERVICES</a>
                     </p>
                 </div>
                 <div class="col w-3/12">
@@ -32,7 +33,7 @@
                         Social
                     </h3>
                     <p class="text-left">
-                        <a href="" class="btn btn-primary btn-social w-138 md:w-110 xl:mr-64 xl:ml-14">
+                        <a href="" class="btn btn-primary btn-social w-full xl:mr-64 xl:ml-14">
                             <span class="icomoon icon-facebook2 text-3xl mr-5 align-middle"></span>
                             FOLLOW US
                         </a>
@@ -1498,7 +1499,7 @@
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 473.185 362.573">
           <path id="Beige_Blob_Gray" class="fill-secondary" data-name="Beige Blob Gray" opacity="0.5" d="M365.3,69.019c-51.619-10.969-69.481,1.2-85.49,21.89-15.2,20.929-30.391,49.225-52.537,79.343-44.291,60.219-96.121,72.255-101.688,99.369-5.715,26.726,4.622,53.481,40.321,87.8,35.349,32.973,96.842,65.923,170.385,69.713,71.708,4.43,206.86-35.805,242.6-89.078,38.53-52.26,12.264-120.541-39.024-171.5C489.11,114.5,413.334,79.757,365.3,69.019Z" transform="translate(-124.108 -64.898)" fill="#c6edf0"/>
         </svg>
-        <img class="absolute top-0 rounded-full w-150 h-150 left-63" src="http://aliancetraining.vm/wp-content/uploads/2022/01/womanoncouch-mobile-768x512-1.jpg" alt="woman">
+        <img class="absolute top-0 rounded-full w-150 h-150 left-63" src="http://aliancetrain.vm/wp-content/uploads/2022/01/womanoncouch-mobile-768x512-1.jpg" alt="woman">
         <svg class="absolute w-37 top-0 left-43" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 83.879 193.571">
           <g id="dk-teal-dots-gray" transform="matrix(-0.788, -0.616, 0.616, -0.788, 51.524, 230.36)" class="fill-primary">
             <ellipse fill="#32abb2" id="Ellipse_27" data-name="Ellipse 27" cx="2.684" cy="2.684" rx="2.684" ry="2.684" transform="matrix(0.653, 0.757, -0.757, 0.653, 117.206, 192.45)"></ellipse>
@@ -1549,7 +1550,7 @@
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 473.185 362.573">
           <path id="Beige_Blob_Gray" class="fill-secondary" data-name="Beige Blob Gray" opacity="0.5" d="M365.3,69.019c-51.619-10.969-69.481,1.2-85.49,21.89-15.2,20.929-30.391,49.225-52.537,79.343-44.291,60.219-96.121,72.255-101.688,99.369-5.715,26.726,4.622,53.481,40.321,87.8,35.349,32.973,96.842,65.923,170.385,69.713,71.708,4.43,206.86-35.805,242.6-89.078,38.53-52.26,12.264-120.541-39.024-171.5C489.11,114.5,413.334,79.757,365.3,69.019Z" transform="translate(-124.108 -64.898)" fill="#c6edf0"/>
         </svg>
-        <img class="absolute top-0 rounded-full w-150 h-150 left-63" src="http://aliancetraining.vm/wp-content/uploads/2022/01/womanoncouch-mobile-768x512-1.jpg" alt="woman">
+        <img class="absolute top-0 rounded-full w-150 h-150 left-63" src="http://aliancetrain.vm/wp-content/uploads/2022/01/womanoncouch-mobile-768x512-1.jpg" alt="woman">
         <svg class="absolute w-37 -bottom-34 left-43" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 83.879 193.571">
           <g id="dk-teal-dots-gray" transform="matrix(-0.788, -0.616, 0.616, -0.788, 51.524, 230.36)" class="fill-primary">
             <ellipse id="Ellipse_27" data-name="Ellipse 27" cx="2.684" cy="2.684" rx="2.684" ry="2.684" transform="matrix(0.653, 0.757, -0.757, 0.653, 117.206, 192.45)"></ellipse>
